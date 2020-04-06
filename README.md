@@ -1,2 +1,8 @@
 # Marshallpy
-$ pkg update &amp;&amp; pkg upgrade $ pkg install python2 $ pkg install git $ pkg install ruby $ git clone $ cd CompileMarshal $ python2 marshal.py 
+$ pkg update && pkg upgrade
+$ pkg install python2
+$ pkg install git
+$ pkg install ruby
+$ git clone 
+$ cd Marshallpy
+$ python2 marshal.py
